@@ -1,16 +1,11 @@
-# listatarefas
+# 📋 Lista de Tarefas
 
-A new Flutter project.
+**Lista de Tarefas** é um aplicativo simples e moderno desenvolvido em Flutter. Este aplicativo permite que os usuários adicionem, visualizem, marquem como concluídas e excluam tarefas. A interface é projetada para ser intuitiva e agradável, utilizando um design moderno e cores harmoniosas.
 
-## Getting Started
+## 🚀 Funcionalidades
 
-This project is a starting point for a Flutter application.
+- **Adicionar Tarefas**: Insira novas tarefas com uma descrição.
+- **Marcar Como Concluída**: Marque tarefas como concluídas para riscar o texto.
+- **Excluir Tarefas**: Remova tarefas da lista com um clique.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Desenvolvido com 💚 por Dalvana Lopes Ribeiro ;).
